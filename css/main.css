@@ -99,7 +99,7 @@ a:link, a:visited {
     right:13px;
     width:50px;
     height:80px;
-    background:url('img/next.png') 6px 25px no-repeat;   
+    background:url('/img/next.png') 6px 25px no-repeat;   
 }
 
 #button-prev {
@@ -108,7 +108,7 @@ a:link, a:visited {
     left:13px;
     width:50px;
     height:80px;
-    background:url('img/prev.png') 6px 25px no-repeat;
+    background:url('/img/prev.png') 6px 25px no-repeat;
 }
 
 #button-save {
@@ -122,7 +122,7 @@ a:link, a:visited {
 #button-shuffle {
     width:32px;
     height:32px;
-    background:url('buttons.png') -8px -8px;
+    background:url('/img/buttons.png') -8px -8px;
 }
 
 #button-settings {
@@ -187,7 +187,7 @@ a:link, a:visited {
     height:280px;
     margin:auto;
     border:1px outset;
-    background:url('background.png') repeat-x;
+    background:url('/img/background.png') repeat-x;
 }
 
 #credits {
@@ -330,7 +330,7 @@ a:link, a:visited {
     right:2px;
     width:24px;
     height:24px;
-    background-image:url('close.png');
+    background-image:url('/img/close.png');
 }
 
 #meter {
